@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>0d0a70fb-c427-43d3-a8a0-20f34dd57788_size2000x2000_cropCenter.jpg</filename>
+	<path>C:\Users\selcuk\.spyder-py3\custom_cascade2\images\0d0a70fb-c427-43d3-a8a0-20f34dd57788_size2000x2000_cropCenter.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2000</width>
+		<height>2000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>maske</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>204</xmin>
+			<ymin>586</ymin>
+			<xmax>1386</xmax>
+			<ymax>1513</ymax>
+		</bndbox>
+	</object>
+</annotation>

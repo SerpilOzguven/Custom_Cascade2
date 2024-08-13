@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>232418-meltblown-maske-en14683-tek-kullanimlik-beyaz-1-03-t086-30-jpg-meltblown-maske-en14683-tek-ku.jpg</filename>
+	<path>C:\Users\selcuk\.spyder-py3\custom_cascade2\images\232418-meltblown-maske-en14683-tek-kullanimlik-beyaz-1-03-t086-30-jpg-meltblown-maske-en14683-tek-ku.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>maske</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>244</xmin>
+			<ymin>257</ymin>
+			<xmax>599</xmax>
+			<ymax>633</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>-Serbest-Dalis-Maskesi-Koyu-Gri-SPF-500.jpg</filename>
+	<path>C:\Users\selcuk\.spyder-py3\custom_cascade2\images\-Serbest-Dalis-Maskesi-Koyu-Gri-SPF-500.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>250</width>
+		<height>250</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>maske</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>58</xmin>
+			<ymin>111</ymin>
+			<xmax>247</xmax>
+			<ymax>226</ymax>
+		</bndbox>
+	</object>
+</annotation>

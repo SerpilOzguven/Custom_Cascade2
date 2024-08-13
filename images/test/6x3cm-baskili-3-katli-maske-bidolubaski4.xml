@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>6x3cm-baskili-3-katli-maske-bidolubaski4.jpg</filename>
+	<path>C:\Users\selcuk\.spyder-py3\custom_cascade2\images\6x3cm-baskili-3-katli-maske-bidolubaski4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>580</width>
+		<height>446</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>maske</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>106</xmin>
+			<ymin>64</ymin>
+			<xmax>476</xmax>
+			<ymax>351</ymax>
+		</bndbox>
+	</object>
+</annotation>

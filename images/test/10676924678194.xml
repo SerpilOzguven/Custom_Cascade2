@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>10676924678194.jpg</filename>
+	<path>C:\Users\selcuk\.spyder-py3\custom_cascade2\images\10676924678194.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>375</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>maske</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>56</ymin>
+			<xmax>370</xmax>
+			<ymax>330</ymax>
+		</bndbox>
+	</object>
+</annotation>

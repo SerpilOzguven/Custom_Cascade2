@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>nano-yikanabilir-siyah-maske-3907_1.jpg</filename>
+	<path>C:\Users\selcuk\.spyder-py3\custom_cascade2\images\nano-yikanabilir-siyah-maske-3907_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>1399</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>maske</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>51</xmin>
+			<ymin>436</ymin>
+			<xmax>665</xmax>
+			<ymax>894</ymax>
+		</bndbox>
+	</object>
+</annotation>

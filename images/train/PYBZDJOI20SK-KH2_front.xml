@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>PYBZDJOI20SK-KH2_front.jpg</filename>
+	<path>C:\Users\selcuk\.spyder-py3\custom_cascade2\images\PYBZDJOI20SK-KH2_front.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>550</width>
+		<height>825</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>maske</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>113</xmin>
+			<ymin>187</ymin>
+			<xmax>383</xmax>
+			<ymax>407</ymax>
+		</bndbox>
+	</object>
+</annotation>
